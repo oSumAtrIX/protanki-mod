@@ -1,3 +1,4 @@
+![crystal box](https://github.com/Kleins0/protanki-mod/raw/main/images/crystals_box.png?raw=true)
 # ProTanki Mod
 
 ## Description
