@@ -6,7 +6,7 @@ A modificated version of the [ProTanki Online](http://protanki-online.com/) Game
 
 ## How to install
 
-1. Download the [application.xml](https://github.com/Kleins0/protanki-mod/releases/download/application/application.xml) file.
+1. Download the [application.xml](https://github.com/Kleins0/protanki-mod/releases/download/application/application.xml) file
 2. Replace the [application.xml](https://github.com/Kleins0/protanki-mod/releases/download/application/application.xml) with the original file in `%ROOT GAME DIRECTORY%\ProTanki Online\META-INF\AIR\application.xml`
 
 ## Help
